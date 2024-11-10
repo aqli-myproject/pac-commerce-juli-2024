@@ -47,7 +47,7 @@ untuk membuat fitur tersebut kita bisa menggunakan User Data, dimana isinya terd
 - [x] `calculate_price(membership, list_harga_barang)` --> menghitung final price yang harus dibayarkan, terus akan mendapatkan diskon sesuai dengan ketentuan membership
 
 ---------------------------------------------------
-## Validation Program (Tes Run Program)
+## Validation Program
 Create an instance of Membership for a user
 obj_1 = Membership(username="Santoso")
 
